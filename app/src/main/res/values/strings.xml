@@ -2,7 +2,7 @@
     <string name="app_name">hw7WeatherApp</string>
     <string name="title_activity_weather_display">wDisplay</string>
 
-    <string name="API_KEY">e3c5d86c791cfa522ef496f056b58138</string>
+    <string name="API_KEY">e3c5d86c791cfa522ef496f056b581388</string>
     <string name="WEATHER_URL">https://api.openweathermap.org/data/2.5/weather?q=QUERY_REPLACE&amp;appid=API_KEY_REPLACE&amp;units=imperial</string>
     <string name="WEATHER_URL_GPS">https://api.openweathermap.org/data/2.5/weather?lat=LAT_REPLACE&amp;lon=LON_REPLACE&amp;appid=API_KEY_REPLACE&amp;units=imperial</string>
     <color name="lightblue">#B8E2F2</color>
